@@ -1,4 +1,5 @@
 # SHE_Website
+# Official Website to display the activities and events conducted by SHE-GCEK.
 <a href="https://shegcek.github.io">Visit Website</a>
 <br>
 <br>
