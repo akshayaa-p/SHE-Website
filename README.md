@@ -1,6 +1,7 @@
 # SHE_Website
 
-<h1>Official Website to display the activities and events conducted by SHE-GCEK.</h1>
+<h3>Official Website to display the activities and events conducted by SHE-GCEK.</h3>
+
 <a href="https://shegcek.github.io">Visit Website</a>
 <br>
 <br>
